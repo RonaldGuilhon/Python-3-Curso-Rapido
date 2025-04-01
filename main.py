@@ -1,3 +1,3 @@
-#!python3
+#!python
 
-print("Olá mundo!")
+print('Ola mundo!')
