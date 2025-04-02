@@ -6,3 +6,6 @@ texto = 'Sua idade e ...'
 idade = 23
 print( texto + str(idade))
 print(f'{texto}{idade}')
+
+saudacao = 'Bom dia '
+print(3* saudacao)
