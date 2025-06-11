@@ -14,4 +14,6 @@
 #import operadores.relacionais
 #import operadores.atribuicao
 #import operadores.logicos
-import operadores.ternario
+#import operadores.ternario
+
+import controle.if_1
