@@ -11,4 +11,5 @@
 
 #import operadores.unarios
 #import operadores.aritimeticos
-import operadores.relacionais
+#import operadores.relacionais
+import operadores.atribuicao
