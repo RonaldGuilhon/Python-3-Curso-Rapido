@@ -12,4 +12,6 @@
 #import operadores.unarios
 #import operadores.aritimeticos
 #import operadores.relacionais
-import operadores.atribuicao
+#import operadores.atribuicao
+#import operadores.logicos
+import operadores.ternario
