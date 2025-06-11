@@ -12,3 +12,11 @@ print(-y)         # -4 → y vale 4, então -y inverte para -4
 
 # Operador unário "+" (sem efeito real, apenas reafirma o sinal positivo)
 print(+3)         # 3
+
+
+a = 10
+print(-a)       # -10
+print(+a)       # 10 (sem alteração)
+print(not True) # False
+print(not 0)    # True (0 é considerado "falso")
+print(not 5)    # False (números ≠ 0 são "verdadeiros")
