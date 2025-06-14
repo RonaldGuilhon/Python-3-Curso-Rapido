@@ -1,0 +1,5 @@
+
+
+pessoas = ['Gui', 'Rebeca']
+
+adj = ''
