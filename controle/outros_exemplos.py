@@ -2,4 +2,4 @@
 
 pessoas = ['Gui', 'Rebeca']
 
-adj = ''
+adj = ['Sapeca', 'Inteligente']
