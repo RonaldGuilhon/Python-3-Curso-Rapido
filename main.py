@@ -41,3 +41,6 @@ from funcoes import args
 
 s = args.soma(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 print(s)
+
+resultado = args.resultado_final(nome='João', nota=7.3)
+print(resultado)
