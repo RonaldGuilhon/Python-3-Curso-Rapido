@@ -1,7 +1,6 @@
 def soma(a, b):
     return a + b
 
-<<<<<<< HEAD
 def subtracao(a, b):
     return a - b
 
@@ -21,7 +20,3 @@ def soma_parcial(a):
     def concluir_soma(b):
         return a + b
     return concluir_soma
-=======
-somar = soma
-print(somar(3, 4))
->>>>>>> 4f0a44feea6353cd7cb493ce9e7b4a05b72d2d5d
