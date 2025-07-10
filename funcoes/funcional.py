@@ -31,7 +31,7 @@ def soma_parcial(a):
 soma_1 = soma_parcial(1) # 1 min
 r1 = soma_1(2)
 r2 = soma_1(3)
-r3 = soma_1(3)
+r3 = soma_1(4)
 
 resultado_final = soma_parcial(10)(12)
 print(resultado_final)
